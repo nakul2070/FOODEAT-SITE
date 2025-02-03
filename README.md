@@ -1,5 +1,5 @@
 FoodEat - A Modern Food Service Web App 🍔🚀
-🚀 Live Demo: FoodEat on Netlify
+🚀 Live Demo: foodeat2070.netlify.app
 
 📌 Overview
 FoodEat is a modern web application designed for food services. It provides a fast, responsive, and user-friendly experience, built using React and Vite.
