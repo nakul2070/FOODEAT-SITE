@@ -1,6 +1,6 @@
 FoodEat - A Modern Food Service Web App 🍔🚀
 
-🚀 Live Demo: foodeat2070.netlify.app
+🚀 Live Demo: https://foodeat2070.netlify.app
 
 📌 Overview
 
